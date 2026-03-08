@@ -94,8 +94,8 @@ The output layer has no ReLU — you want raw values for loss computation.
 ## Usage
 
 ```python
-from my_micrograd.engine import Value
-from my_micrograd.my_nn import MLP
+from scalar_autograd.engine import Value
+from scalar_autograd.my_nn import MLP
 
 # build model
 model = MLP(2, [4, 4, 1])
