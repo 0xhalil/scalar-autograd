@@ -1,5 +1,7 @@
 # scalar-autograd
 
+![](assets/image.png)
+
 A scalar-valued autograd engine built from scratch — no PyTorch, no NumPy, no magic.
 
 Inspired by [Karpathy's micrograd](https://github.com/karpathy/micrograd). Written to understand backpropagation at the deepest level, not just use it.
