@@ -1,4 +1,4 @@
-# my_micrograd
+# scalar-autograd
 
 A scalar-valued autograd engine built from scratch — no PyTorch, no NumPy, no magic.
 
